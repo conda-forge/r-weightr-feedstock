@@ -1,11 +1,11 @@
-About r-weightr
-===============
+About r-weightr-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-weightr-feedstock/blob/main/LICENSE.txt)
 
 Home: http://faculty.ucmerced.edu/jvevea/, https://vevealab.shinyapps.io/WeightFunctionModel/, http://faculty.ucmerced.edu/jvevea/other/Vevea_and_Hedges_1995.pdf, http://faculty.ucmerced.edu/jvevea/other/Vevea_and_Woods_Psy_Meth.pdf
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-weightr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimates the Vevea and Hedges (1995) weight-function model. By specifying arguments, users can also estimate the modified model described in Vevea and Woods (2005), which may be more practical with small datasets. Users can also specify moderators to estimate a linear model. The package functionality allows users to easily extract the results of these analyses as R objects for other uses. In addition, the package includes a function to launch both models as a Shiny application. Although the Shiny application is also available online, this function allows users to launch it locally if they choose.
 
